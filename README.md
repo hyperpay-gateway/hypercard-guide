@@ -40,7 +40,7 @@ Card problems are rarely about the card alone. A decline at a terminal can come 
 
 The card also has a life cycle that outlives any single piece of plastic: an application, a tier, a balance in one of two currencies, a replacement after loss, and a closure that can leave funds behind. The pages here follow that cycle in order, so a reader who is already two steps into it can find the one that matches without reading the earlier stages again.
 
-## Who it is for
+## Who it is for?
 
 - You are deciding whether HyperCard fits your spending and want the requirements before applying.
 - You hold a card and a payment was declined, with no clear reason in the app.
